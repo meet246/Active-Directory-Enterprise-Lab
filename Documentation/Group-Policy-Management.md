@@ -12,7 +12,7 @@ Group Policy Objects (GPOs) were used to centrally manage Windows security setti
 
 Created an HR login message using PowerShell.
 
-![HR GPO](./Images/HR GPO.png)
+![HR GPO](/Images/HR-GPO.png)
 
 ---
 
@@ -20,11 +20,11 @@ Created an HR login message using PowerShell.
 
 The GPO was linked directly to the HR Organizational Unit.
 
-![HR GPO Link](./Images/HR GPO 2.png)
+![HR GPO Link](/Images/HR-GPO-2.png)
 
 ---
 
-![HR GPO Test](./Images/HR GPO test.png)
+![HR GPO Test](/Images/HR-GPO-test.png)
 
 ### Registry Configuration
 
