@@ -39,7 +39,7 @@ John,Smith,jsmith,HR,Managers
 Jane,Doe,jdoe,ITSupport,HelpDesk
 ```
 
-![OU](Images/OU PS.png)
+![OU](./Images/ou-ps.png)
 
 ---
 
