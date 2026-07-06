@@ -49,6 +49,6 @@ Windows 11 was joined to the **corp.local** domain.
 
 ## Screenshots
 
-![AD config](./Images/AD config.png)
+![AD config](Images/AD config.png)
 
-![Client Config](./Images/client config.png)
+![Client Config](Images/client config.png)
