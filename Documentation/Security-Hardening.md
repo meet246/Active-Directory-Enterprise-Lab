@@ -12,7 +12,7 @@ Reduce attack surface and improve security monitoring using Group Policy and Win
 
 Mitigates credential poisoning attacks by preventing multicast name resolution.
 
-![LLMNR](./Images/disable llmnr.png)
+![LLMNR](/Images/disable-llmnr.png)
 
 ---
 
@@ -20,7 +20,7 @@ Mitigates credential poisoning attacks by preventing multicast name resolution.
 
 Reduces legacy network attack vectors.
 
-![NetBIOS](./Images/disable netbios.png)
+![NetBIOS](/Images/disable-netbios.png)
 
 ---
 
@@ -37,7 +37,7 @@ Enabled:
 - Firewall Logging
 - Dropped Packet Logging
 
-![Firewall Logging](./Images/firewall logging.png)
+![Firewall Logging](/Images/firewall-logging.png)
 
 ---
 
@@ -52,11 +52,11 @@ Enabled auditing for:
 - Authentication Policy Changes
 - Firewall Events
 
-![Logon](./Images/audit logon.png)
-![Logoff](./Images/audit logoff.png)
-![Kerberos](./Images/audit kerberos.png)
-![Process Creation](./Images/audit process creation.png)
-![Authentication Policy](./Images/authentication policy change.png)
+![Logon](/Images/audit-logon.png)
+![Logoff](/Images/audit-logoff.png)
+![Kerberos](/Images/audit-kerberos.png)
+![Process Creation](/Images/audit-process-creation.png)
+![Authentication Policy](/Images/authentication-policy-change.png)
 
 ---
 
@@ -67,7 +67,7 @@ Enabled auditing for:
 - Authentication monitoring
 - Credential attack mitigation
 
-![Event Viewer](./Images/event viewer.png)
+![Event Viewer](/Images/event-viewer.png)
 
 ---
 
