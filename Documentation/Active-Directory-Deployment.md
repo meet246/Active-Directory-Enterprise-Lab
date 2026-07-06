@@ -52,7 +52,7 @@ The automation script performs the following tasks:
 - Assigns users to security groups
 - Prevents duplicate objects
 
-![AD](/Images/AD Users.png)
+![AD](/Images/AD-Users.png)
 
 ---
 
