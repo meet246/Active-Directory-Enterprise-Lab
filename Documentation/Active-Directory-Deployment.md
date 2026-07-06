@@ -39,7 +39,7 @@ John,Smith,jsmith,HR,Managers
 Jane,Doe,jdoe,ITSupport,HelpDesk
 ```
 
-![OU](./Images/ou ps.png)
+![OU](./Images/OU PS.png)
 
 ---
 
@@ -52,7 +52,7 @@ The automation script performs the following tasks:
 - Assigns users to security groups
 - Prevents duplicate objects
 
-![AD](./Images/AD users.png)
+![AD](./Images/AD Users.png)
 
 ---
 
