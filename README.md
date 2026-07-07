@@ -126,41 +126,41 @@ Implemented:
 
 ### Active Directory Users and Computers
 
-![AD](Images/AD users.png)
+![AD](/Images/AD-Users.png)
 
 ---
 
 ### Organizational Units
 
-![OU](Images/ou ps.png)
+![OU](/Images/OU-PS.png)
 
 ---
 
 ### Group Policy
 
-![GPO](Images/HR GPO.png)
-![GPO2](Images/HR GPO 2.png)
+![GPO](/Images/HR-GPO.png)
+![GPO2](Images/HR-GPO-2.png)
 
 ---
 
 ### Login Banner
 
-![Banner](Images/HR GPO test.png)
+![Banner](/Images/HR-GPO-test.png)
 
 ---
 
 ### Firewall Logging
 
-![Firewall](Images/firewall logging.png)
+![Firewall](/Images/firewall-logging.png)
 
 ---
 
 ### audit policies
 
-![Logon](Images/audit logon.png)
-![Logoff](Images/audit logoff.png)
-![Kerberos](Images/audit kerberos.png)
-![Process Creation](Images/audit process creation.png)
+![Logon](/Images/audit-logon.png)
+![Logoff](/Images/audit-logoff.png)
+![Kerberos](/Images/audit-kerberos.png)
+![Process Creation](/Images/audit-process-creation.png)
 
 ---
 
