@@ -132,7 +132,7 @@ Implemented:
 
 ### Organizational Units
 
-![OU](/Images/OU-PS.png)
+![OU](/Images/ou-ps.png)
 
 ---
 
